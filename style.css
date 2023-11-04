@@ -1,7 +1,23 @@
-.topBar{
+.topBar {
     background-color: rgb(37, 47, 61, 100%);
     color: #FFFFFF;
 }
 
+.btn-primary {
+    background-color: #EDF3FD;
+    border: 0;
+}
 
+.text-primary {
+    color: #2C7EF8;
 
+}
+
+.btn:hover {
+    background-color: #EDF3FD;
+}
+
+.btn-success {
+    background-color: #59AE43;
+    border: 0;
+}
