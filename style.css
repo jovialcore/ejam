@@ -21,3 +21,7 @@
     background-color: #59AE43;
     border: 0;
 }
+
+.text-danger {
+    color: #F82C2C !important;
+}
