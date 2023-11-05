@@ -13,15 +13,32 @@
 
 }
 
-.btn:hover {
+.btn-primary:hover {
     background-color: #EDF3FD;
 }
+
+.btn-primary:active {
+    background-color: #EDF3FD !important;
+}
+
+
+
+
 
 .btn-success {
     background-color: #59AE43;
     border: 0;
 }
 
+.btn-success:hover {
+    background-color: #59AE43;
+    border: 0;
+}
+
+.btn-success:active {
+    background-color: #59AE43;
+    border: 0;
+}
 .text-danger {
     color: #F82C2C !important;
 }
@@ -49,7 +66,12 @@
 
 .spanned-text-color {
     color: #2C7EF8;
-    
+
+}
+
+.fa-check {
+    color: #2C7EF8;
+    margin-right: 0.7rem;
 }
 
 
@@ -77,6 +99,10 @@
         font-size: 24px;
         line-height: 2.5rem;
         text-align: center;
+    }
+
+    .save-percent {
+        font-size: 16px;
     }
 
 }
