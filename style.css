@@ -38,6 +38,14 @@
     .secure-logo {
         width: 100px;
     }
+    
+    .after-top-title {
+        font-size: 16px;
+      
+    }
 
+    .top-title {
+        font-size: 32px;
+    }
     
 }
