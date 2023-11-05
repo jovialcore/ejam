@@ -26,6 +26,18 @@
     color: #F82C2C !important;
 }
 
-.carousel-control-prev-icon, .carousel-control-next-icon  {
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
     width: 20px;
+}
+
+
+@media screen and (max-width: 576px) {
+
+    .logo,
+    .secure-logo {
+        width: 100px;
+    }
+
+    .
 }
