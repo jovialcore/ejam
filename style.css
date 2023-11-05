@@ -32,20 +32,34 @@
 }
 
 
+.top-title {
+    font-size: 48px;
+}
+
+
+.after-top-title {
+    font-size: 24px;
+
+}
+
 @media screen and (max-width: 576px) {
 
     .logo,
     .secure-logo {
         width: 100px;
     }
-    
+
     .after-top-title {
         font-size: 16px;
-      
+
     }
 
     .top-title {
         font-size: 32px;
     }
-    
+
+    .checkout-progress {
+        font-size: 13px;
+    }
+
 }
