@@ -76,6 +76,20 @@
 }
 
 
+.price {
+    font-size: 18px;
+    color: #969696;
+   
+
+}
+
+.big-price {
+    color: #2C7EF8;
+    font-size: 22px;
+   
+}
+
+
 @media screen and (max-width: 576px) {
 
     .logo,
