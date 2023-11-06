@@ -39,6 +39,7 @@
     background-color: #59AE43;
     border: 0;
 }
+
 .text-danger {
     color: #F82C2C !important;
 }
@@ -104,8 +105,27 @@
     .save-percent {
         font-size: 16px;
     }
+
     .foot {
         font-size: 13px;
+    }
+
+    .price {
+        font-size: 14px;
+        color: #969696;
+    }
+
+    .big-price {
+        color: #2C7EF8;
+        font-size: 19px;
+    }
+
+    .steps {
+        width: 1.7rem;
+    }
+
+    .steps-text{
+        font-size: 1.6rem;
     }
 
 }
